@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/she-was-country-gold/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for She Was Country Gold](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/she-was-country-gold/) |
+| **Get License** | [Request Licensing for She Was Country Gold](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/she-was-country-gold/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I feel your rhythm in the quiet of the dark
+> You strike a match and leave a beautiful mark
+> I got a craving that is running way too deep
+> You're the only promise that I wanna keep
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
